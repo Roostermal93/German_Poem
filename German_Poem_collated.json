@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 13,
     "next": null,
     "previous": null,
     "results": [
@@ -18,6 +18,13 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/6c455a87-147d-4329-ad15-6b79bd97188b_de_Female.mp4"
         },
         {
+            "id": "7e3cac15-a166-4436-86a8-7585defdf767",
+            "collectionId": "German",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/7e3cac15-a166-4436-86a8-7585defdf767_de_Male.mp4"
+        },
+        {
             "id": "b860559b-d708-4e97-a8a1-ccc996b3eeb9",
             "collectionId": "German",
             "type": "Poem",
@@ -32,11 +39,46 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/8db5ae95-983f-4a45-b5c7-8c5e5c68b40c_de_Male.mp4"
         },
         {
+            "id": "79c99fee-a9f1-4eb7-b831-6f14c80201e4",
+            "collectionId": "German",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/79c99fee-a9f1-4eb7-b831-6f14c80201e4_de_Female.mp4"
+        },
+        {
+            "id": "3fe9838b-be14-4e16-bbd3-d6c6018ad140",
+            "collectionId": "German",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/3fe9838b-be14-4e16-bbd3-d6c6018ad140_de_Male.mp4"
+        },
+        {
             "id": "4354913a-fbed-4a37-9817-9f5f1a95fb4f",
             "collectionId": "German",
             "type": "Poem",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/4354913a-fbed-4a37-9817-9f5f1a95fb4f_de_Female.mp4"
+        },
+        {
+            "id": "312a2ce9-673e-4cc9-9db5-f4dc5cd7ac09",
+            "collectionId": "German",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/312a2ce9-673e-4cc9-9db5-f4dc5cd7ac09_de_Male.mp4"
+        },
+        {
+            "id": "eb4efc52-423b-4aae-9ec0-65323046c242",
+            "collectionId": "German",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/eb4efc52-423b-4aae-9ec0-65323046c242_de_Female.mp4"
+        },
+        {
+            "id": "1d1dff3c-bfe7-4660-a694-e8b38d6f1968",
+            "collectionId": "German",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/German/1d1dff3c-bfe7-4660-a694-e8b38d6f1968_de_Male.mp4"
         },
         {
             "id": "f8360ff6-2b65-4104-9958-46f7935735cc",
